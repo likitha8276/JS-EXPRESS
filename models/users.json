@@ -1,0 +1,43 @@
+[
+  {
+    "username": "likitha editor",
+    "password": "$2b$10$p5FZ7AearTJQDhLlNCmiiOktxUWO4c.AGRcYlFDyekUFAPmd.S3Mm",
+    "roles": {
+      "Editor": 1984,
+      "User": 2001
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imxpa2l0aGEgZWRpdG9yIiwiaWF0IjoxNzUwNzM4NDM1LCJleHAiOjE3NTA4MjQ4MzV9.6ZUmomiali1-Q8HJqGw43jz8LT0RoZXCpR9GN_FntsU"
+  },
+  {
+    "username": "likitha admin",
+    "password": "$2b$10$p5FZ7AearTJQDhLlNCmiiOktxUWO4c.AGRcYlFDyekUFAPmd.S3Mm",
+    "roles": {
+      "Admin": 5150,
+      "Editor": 1984,
+      "User": 2001
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imxpa2l0aGEgYWRtaW4iLCJpYXQiOjE3NTA3Mzk5MjMsImV4cCI6MTc1MDgyNjMyM30.iZrL8GC4jR6jUQ_QcroVF_cQMJyRQLx0ZtHKJZ3deaw"
+  },
+  {
+    "username": "likitha",
+    "password": "$2b$10$KyK5hpSYztBK2vZaIhH.Mu8232b0143jQi1/IamOp2E3ISPA..Psi",
+    "roles": {
+      "User": 2001
+    }
+  },
+  {
+    "username": "likitha likki",
+    "password": "$2b$10$wwCrNu.Hph3vZQHaqYzlfuBtAOy23Qg24qNZLyLgN6Puu1TIiV/La",
+    "roles": {
+      "User": 2001
+    }
+  },
+  {
+    "username": "likitha user",
+    "password": "$2b$10$p5FZ7AearTJQDhLlNCmiiOktxUWO4c.AGRcYlFDyekUFAPmd.S3Mm",
+    "roles": {
+      "User": 2001
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imxpa2l0aGEgdXNlciIsImlhdCI6MTc1MDc0MzAxMiwiZXhwIjoxNzUwODI5NDEyfQ.ZCYSU-P8jcOmnocHRx-JxI5Vd1qsB9bSznVxGVGAncE"
+  }
+]
