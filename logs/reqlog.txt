@@ -138,3 +138,6 @@
 24:06:2025	10:56:52	d24ac685-8bfe-4ae0-a64c-d24812841ba3	POST	undefined	/
 24:06:2025	10:57:04	daf2e7a9-60c2-4864-9bb3-2eddc25f7651	POST	undefined	/
 24:06:2025	11:00:12	e524af24-60a4-47f6-be1b-ec061e72e2e4	POST	undefined	/auth
+24:06:2025	11:46:18	771f0991-47a5-4e88-948c-00e13b8c7f29	POST	undefined	/
+24:06:2025	11:46:26	1be00a20-b34f-4835-8ecc-60d4f072d64b	GET	undefined	/
+24:06:2025	11:46:59	c5121de0-03b5-4422-85b0-628b6a0c711d	POST	undefined	/register
